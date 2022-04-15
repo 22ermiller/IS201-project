@@ -2,3 +2,25 @@ body {
     background-color: rgb(192, 248, 248);
 }
 
+.big_header {
+    font-size: 45px;
+    font-style: bold;
+}
+
+.small_header {
+    font-size: 25px;
+    font-style: bold;
+}
+
+.bold {
+    font-style: bold;
+}
+
+.new_font {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.italic {
+    font-style: italic;
+    text-align: center;
+}
